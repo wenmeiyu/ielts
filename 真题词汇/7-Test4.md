@@ -10,16 +10,28 @@ tags:
     - 真题词汇
 ---
 
-<iframe height=498 width=510 src="http://player.youku.com/embed/XMTY1MTI3NjMyNA==" frameborder=0 allowfullscreen></iframe>
+<iframe height=498 width=510 src="http://player.youku.com/embed/XMTY1MTI3NjMyNA==" frameborder=0 allowfullscreen></iframe><br /> 
 
-<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=32329501&sid=1776238762&mode=js"></script>
+<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=32329501&sid=1776238762&mode=js"></script><br /> 
 
 
 <audio id="audio" controls="" preload="none">
       <source id="mp3" src="http://oht4nlntk.bkt.clouddn.com/Music_iP%E8%B5%B5%E9%9C%B2%20-%20%E7%A6%BB%E6%AD%8C%20%28Live%29.mp3">
-</audio>
+</audio><br /> 
 
-## <center>Test4  Listening</center>
+浅红色文字：<font color="#dd0000">浅红色文字：</font><br /> 
+
+深红色文字：<font color="#660000">深红色文字</font><br /> 
+
+浅绿色文字：<font color="#00dd00">浅绿色文字</font><br /> 
+
+深绿色文字：<font color="#006600">深绿色文字</font><br /> 
+
+浅蓝色文字：<font color="#0000dd">浅蓝色文字</font><br /> 
+
+深蓝色文字：<font color="#000066">深蓝色文字</font><br /> 
+
+## <center> Test4  Listening </center>
 
 ---
 #### SECTION 1
