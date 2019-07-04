@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      真题词汇7-1
+title:      真题词汇7-Test1
 subtitle:   真题词汇，生词，高频词
 date:       2019-06-04
 author:     wenmeiyu
@@ -100,6 +100,29 @@ baggage claim  行李领取处 | ---
 
 ---
 #### PASSAGE 1
+
+- prey n. 被捕食的动物，猎物
+- obstacle n.障碍物，障碍
+- making  n.构造，结构，天性
+- daytime economy 白天的营生，这里指白天出来捕猎的行为
+- exploit vt. 开采，开发 n. 业绩，功绩
+- alternative  adj. 两者择其一的，另外的
+- favour vt.青睐，有利于，便于
+- make a go of 成功
+- nocturnal adj. (动物)夜间活动的
+- go way back in 追溯到
+- ancestry n. 祖先，世系
+- dominate vi.&vt. 控制，支配，统治
+- mammalian n.哺乳动物 adj. 哺乳动物的
+- scrape vt. 设法得到的，刮，擦
+- scrape a living  勉强够维持生活
+- mass extinction 大规模灭绝
+- emerge into 出现/显露在...
+- substantial adj. 大量的，可观的
+- in the absence of  缺乏，没有
+- muddy adj. 泥泞的
+- obstruct  vi.&vt.  阻塞，遮住，阻挡
+- scatter vi.&vt. 使散开，使分散，驱散
 
 ---
 #### PASSAGE 2
