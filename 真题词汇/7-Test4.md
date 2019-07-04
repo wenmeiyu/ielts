@@ -11,6 +11,9 @@ tags:
 ---
 
 <iframe height=498 width=510 src="http://player.youku.com/embed/XMTY1MTI3NjMyNA==" frameborder=0 allowfullscreen></iframe>
+
+<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=32329501&sid=1776238762&mode=js"></script>
+
 ## Test4  Listening
 
 ---
