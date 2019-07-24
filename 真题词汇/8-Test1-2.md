@@ -86,6 +86,18 @@ tags:
 ---
 #### SECTION 3
 
+- carry parasites
+	- infested with mites
+	- parasite n. 寄生虫；食客
+	- mite  n. 小虫，螨；（可怜的）小孩儿，小动物 adv. （非正式）一点儿，稍许
+	- carry vt. 拿，扛；携带；支持；搬运
+	- infest vt. 骚扰；寄生于；大批出没；大批滋
+- laboratory n. 实验室，研究室
+	- lab
+- soften vt. 使温和；使缓和；使变柔软
+	- moisten vt. 弄湿；使…湿润
+- pellet n. 小球；[军] 小子弹（枪用）
+
 ---
 #### SECTION 4
 
@@ -141,4 +153,22 @@ tags:
 
 ---
 #### PASSAGE 3
+
+- interpretation  n. 解释；翻译；演出
+	- explain v. 说明；解释
+- appreciate vt. 欣赏；感激；领会；鉴别
+- odour n. 气味；声誉
+- smell n. 气味，嗅觉；臭味 v. 嗅，闻；有……气味
+	- smile v. 微笑；微笑着表示；露出（某种笑容
+- impair  vt. 损害；削弱；减少
+	- damage vt. 损害，毁坏
+- be aware of 知道,察觉到
+- undervalued adj. 贬值的；估值偏低的；估价过低的 
+	- undervalue v. 低估……的价值；轻视
+- atmosphere n. 气氛；大气；空气
+- regard vt. 注重，考虑；看待；尊敬
+- apparent adj. 显然的；表面上的
+- perceive  vt. 察觉，感觉；理解；认知
+- bound v. 跳跃着跑；弹回，弹开 adj. 一定会；很可能会；
+
 
